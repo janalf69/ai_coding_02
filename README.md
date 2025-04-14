@@ -5,14 +5,14 @@ This project contains two functions to calculate the nth Fibonacci number and th
 ## Functions
 
 ### fibonacci(n)
-- **Description**: Calculates the nth Fibonacci number using an iterative approach.
+- **Description**: Calculates the nth Fibonacci number using matrix exponentiation for improved efficiency.
 - **Parameters**:
   - `n` (int): A non-negative integer representing the position in the Fibonacci sequence.
 - **Returns**:
   - int: The nth Fibonacci number.
 
 ### factorial(n)
-- **Description**: Calculates the factorial of a given number n.
+- **Description**: Calculates the factorial of a given number n using memoization to improve efficiency.
 - **Parameters**:
   - `n` (int): A non-negative integer whose factorial is to be calculated.
 - **Returns**:
